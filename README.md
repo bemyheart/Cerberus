@@ -39,3 +39,4 @@ Trying to push weekly at the very least.
 - readme.md is on the files department for now, and the .git so i'm getting aquainted with .md syntax and .git structure
 - resources
 #### to do
+- procure initial data sheets, pinouts on currently accepted hardware
