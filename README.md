@@ -32,11 +32,15 @@ Trying to push weekly at the very least.
 - 0.7 - alerting user
 - 1.0 - optimizations
 
-## Progress
+## Progress 
+
 ### 0.0.1
 #### done
 - Started learning git, set up local and remote repositories. Managed to understand add, commit, push, pull...somewhat understand. Anyway got "getting started" docs and youtube playlist on the ready for further learning.  
-- readme.md is on the files department for now, and the .git so i'm getting aquainted with .md syntax and .git structure
-- resources
-#### to do
-- procure initial data sheets, pinouts on currently accepted hardware
+- readme.md, .git, rsc - datasheets folder
+- resources datasheet for esp32, bme280, tempLCD, esp pinout
+
+### 0.0.2
+#### todo
+- go over functions, write more sofisticated device work algorithm
+- ressearch air quality measurment
