@@ -1,7 +1,7 @@
 # Cerberus
 
 ## Basic project idea
-room air quality monitoring and alerting device
+Indoor air quality monitoring and alerting device
 
 ## Functions
 - monitor t, p, h, co2 (add extremities ppm)
