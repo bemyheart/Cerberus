@@ -18,6 +18,7 @@ Indoor air quality monitoring and alerting device
 - lcd tbd
 
 ## Roadmap
+Trying to push weekly at the very least.
 - 0.0.1 - set up git, files, procure needed resources 
 - 0.0.2 - resolve device functions under question, iron out project scope
 - 0.0.3 - resolve hardware tbd's
@@ -30,3 +31,11 @@ Indoor air quality monitoring and alerting device
 - 0.6 - preetify server output
 - 0.7 - alerting user
 - 1.0 - optimizations
+
+## Progress
+### 0.0.1
+#### done
+- Started learning git, set up local and remote repositories. Managed to understand add, commit, push, pull...somewhat understand. Anyway got "getting started" docs and youtube playlist on the ready for further learning.  
+- readme.md is on the files department for now, and the .git so i'm getting aquainted with .md syntax and .git structure
+- resources
+#### to do
