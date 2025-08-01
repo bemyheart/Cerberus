@@ -3,12 +3,15 @@
 ## Basic project idea
 Indoor air quality monitoring and user alerting device
 
+## Project description
+Device to sit in a room and monitor air quality. Data is viewable through a local server run on the same device.
+Alert system for the user to be aware of dangerous concentration of gases.
+
 ## Functions
-- monitor t, p, h, co2, other gases(add extremities ppm)
+- monitor t, p, h, CO, CO2, Particulate matter, boonus gases(O3, SO2, NO2, others)
 - output to a local sever and lcd screen
-- logging 24 hours
+- logging hourly data 24/7
 - alert user on exceeding air parameters
-- ?drawing a graph
 
 ## Hardware
 - esp32 as a controller
@@ -16,6 +19,7 @@ Indoor air quality monitoring and user alerting device
 - co2 sensor tbd MQ135
 - extremities sensor tbd
 - lcd tbd
+- pushbutton
 
 ## Roadmap
 Trying to push weekly at the very least.
@@ -33,6 +37,5 @@ Trying to push weekly at the very least.
 - 0.5 - saving logs
 - 0.6 - preetify server output
 - 0.7 - alerting user
-- 0.8 - caseing and final wiring solution
+- 0.8 - casing and final wiring solution
 - 1.0 - optimizations
-

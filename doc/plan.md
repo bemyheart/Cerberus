@@ -9,11 +9,11 @@
 - wrap head around license 
 
 ### 0.0.2
-#### to do
-- go over functions
-- ressearch air quality measurment
-- write simple work algorithm
 #### done
+- go over functions
+- write simple work algorithm
+- ressearch air quality measurment
+- air t, h, p, CO, CO2, extra gases as a bonus (O3, SO2, NO2, others), Particulate matter
 
 ### 0.0.3
 #### to do
